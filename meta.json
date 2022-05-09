@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/cloudbet",
   "refs": [
-    "refs/heads/nim",
+    "fatal: unable to access 'https://github.com/juancarlospaco/cloudbet/': Error in the HTTP2 framing layer",
     ""
   ],
   "heads": []
